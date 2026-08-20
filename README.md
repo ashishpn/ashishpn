@@ -2,14 +2,15 @@
 
 ### Data Science & Machine Learning Enthusiast
 
-Interested in **Machine Learning, Artificial Intelligence, Data Science, and the mathematics behind AI**.
+Exploring **Machine Learning, Artificial Intelligence, Data Science, and the mathematics behind AI**.
 
-Currently exploring:
-- Machine Learning & Deep Learning
-- LLMs and AI applications
-- Calculus, Linear Algebra, and Statistics for ML
+Interested in:
+- Machine Learning algorithms and their foundations
+- Deep Learning & Large Language Models
+- Calculus, Linear Algebra, and Statistics
+- Building practical AI applications
 
-Building:
+Currently building:
 - 🎙️ AI-powered Text-to-Speech Calculator
 
 ---
@@ -17,25 +18,31 @@ Building:
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,r,sql,tensorflow,pytorch,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,git,github,vscode" />
 </p>
 
-**Data Science:** NumPy • Pandas • Scikit-learn • Matplotlib • Seaborn • Plotly
+**Data Science Libraries**
+
+NumPy • Pandas • Scikit-learn • Matplotlib • Seaborn • Plotly
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ashishpn&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=ashishpn&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishpn&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishpn&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🔗 Connect
 
-X: [@ashishnaidu_](https://x.com/ashishnaidu_)
+<p align="center">
+<a href="https://x.com/ashishnaidu_">
+<img src="https://img.shields.io/badge/X-@ashishnaidu_-black?style=for-the-badge&logo=x" />
+</a>
+</p>
