@@ -2,7 +2,7 @@
 
 ### Data Science & Machine Learning Enthusiast
 
-Interested in **Machine Learning, Artificial Intelligence, Data Science, and the mathematics behind AI**.
+Interested in **Machine Learning, Data Science and Artificial Intelligence**.
 
 Exploring:
 - Machine Learning algorithms and their foundations
